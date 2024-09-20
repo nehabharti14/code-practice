@@ -8,3 +8,8 @@ function fact(num) {
   return fact;
 }
 console.log(fact(4));
+
+function multiplication(a, b) {
+  return a * b;
+}
+console.log(multiplication(2, 4));
